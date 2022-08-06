@@ -1,3 +1,4 @@
 # Task 1 Software configuration.
 Subtask1 "Why did I choose to participate in the challenge portfolio?”
-![GitHub Logo](https://d1m75rqqgidzqn.cloudfront.net/images/logo.png) Format: ![Alt Text](url) 
+#   This is a  <h1> tag.  ##  This is a  <h2> tag. ###### This is a <h6> tag.
+Result: This is a <h1> tag.This is a  <h2> tag.This is a <h6> tag.

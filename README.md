@@ -22,3 +22,8 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 
 Коли я побачив можливість взяти участь у конкурсі Dare IT "Portfolio Challenge", я зрозумів, що мені це потрібно, щоб отримати досвід
 , якого у мене немає. І я заповнив анкету учасника i з нетерпінням чекав можливості швидше отримати знання. Я сподіваюся стати кращим з усіх учасників челенджу, і в майбутньому я зможу застосувати отримані знання на практиці.
+
+
+## **Task 2 Selectors.**
+### Subtask1 ***"Searching for selectors on the login pageList all the elements that are on the login page?”***
+

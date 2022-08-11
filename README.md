@@ -36,8 +36,8 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 2. //*[@name="password"]
 
 **password recovery field**
-//*[@id="__next"]/form/div/div[1]/a
-//*[text()="Remind password"]
+1. //*[@id="__next"]/form/div/div[1]/a
+2. //*[text()="Remind password"]
 
 ### Subtask 2 ***"Adding selectors to project”***
 login_field_xpath = "//*[@id='login']"

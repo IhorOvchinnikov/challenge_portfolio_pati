@@ -28,16 +28,16 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 ### Subtask1 ***"Searching for selectors on the login pageList all the elements that are on the login page?”***
 
 **login field**
-1.  //*[@id="login"]
-2. //*[@name="login"]
+>1.  //*[@id="login"]
+>2. //*[@name="login"]
 
 **password field**
-1. //*[@id="password"]
-2. //*[@name="password"]
+>1. //*[@id="password"]
+>2. //*[@name="password"]
 
 **password recovery field**
-1. //*[@id="__next"]/form/div/div[1]/a
-2. //*[text()="Remind password"]
+>1. //*[@id="__next"]/form/div/div[1]/a
+>2. //*[text()="Remind password"]
 
 ### Subtask 2 ***"Adding selectors to project”***
 login_field_xpath = "//*[@id='login']"

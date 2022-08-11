@@ -27,23 +27,23 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 ## **Task 2 Selectors.**
 ### Subtask1 ***"Searching for selectors on the login pageList all the elements that are on the login page?”***
 
-**login field**
+***login field***
 >1.  //*[@id="login"]
 >2. //*[@name="login"]
 
-**password field**
+***password field***
 >1. //*[@id="password"]
 >2. //*[@name="password"]
 
-**password recovery field**
+***password recovery field***
 >1. //*[@id="__next"]/form/div/div[1]/a
 >2. //*[text()="Remind password"]
 
 ### Subtask 2 ***"Adding selectors to project”***
-login_field_xpath = "//*[@id='login']"
+>login_field_xpath = "//*[@id='login']"
 
-password_field_xpath = "//*[@id="password"]"
+>password_field_xpath = "//*[@id="password"]"
 
-sign_in_button_xpath = "//*[text()= 'Sign in']"
+>sign_in_button_xpath = "//*[text()= 'Sign in']"
 
 ### Subtask 3 ***"Adding a new file”***

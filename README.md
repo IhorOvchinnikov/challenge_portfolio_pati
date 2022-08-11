@@ -36,6 +36,6 @@ login_field_xpath = "//*[@id='login']"
 
 password_field_xpath = "//*[@id="password"]"
 
-sign_in_button_xpath = "//*[@id="__next"]/form/div/div[2]/button/span[1]"
+sign_in_button_xpath = "//*[text()= 'Sign in']"
 
 ### Subtask 3 ***"Adding a new file”***

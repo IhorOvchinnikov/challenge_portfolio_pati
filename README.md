@@ -34,14 +34,14 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 
 ***password field***
 >1. //*[@id="password"]
->2. //*[@name="password"]//*[@type="password"]
+>2. //*[@name="password"]
 >3. //*[@type="password"]
 
 
 ***Remind password***
 >1. //*[@id="__next"]/form/div/div[1]/a
 >2. //a[@class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss4 MuiTypography-colorPrimary"]
->3. //*[@tabindex="-1"]//*[@tabindex="-1"]
+>3. //*[@tabindex="-1"]
 
 ***language***
 >1. //*[@role="button"]

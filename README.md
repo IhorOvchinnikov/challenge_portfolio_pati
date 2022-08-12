@@ -40,7 +40,7 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 
 ***remind_password_xpath***
 >1. //*[@id="__next"]/form/div/div[1]/a
->2. //a[@class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss4 MuiTypography-colorPrimary"]
+>2. //*[text()='Remind password']
 >3. //*[@tabindex="-1"]
 
 ***language_xpath***

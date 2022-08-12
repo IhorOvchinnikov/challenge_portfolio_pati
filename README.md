@@ -30,10 +30,13 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 ***login field***
 >1.  //*[@id="login"]
 >2. //*[@name="login"]
+>3. //*[@type="text"]
 
 ***password field***
 >1. //*[@id="password"]
->2. //*[@name="password"]
+>2. //*[@name="password"]//*[@type="password"]
+>3. //*[@type="password"]
+
 
 ***password recovery field***
 >1. //*[@id="__next"]/form/div/div[1]/a

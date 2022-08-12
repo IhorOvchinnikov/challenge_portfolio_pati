@@ -40,10 +40,8 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 >2. //*[text()="Remind password"]
 
 ### Subtask 2 ***"Adding selectors to project”***
->login_field_xpath = "//*[@id='login']"
-
->password_field_xpath = "//*[@id="password"]"
-
+>login_field_xpath = "//*[@id='login']"  
+>password_field_xpath = "//*[@id="password"]"  
 >sign_in_button_xpath = "//*[text()= 'Sign in']"
 
 ### Subtask 3 ***"Adding a new file”***

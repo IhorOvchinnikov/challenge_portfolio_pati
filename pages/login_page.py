@@ -5,6 +5,7 @@ class LoginPage(BasePage):
 login_field_xpath = "//*[@id='login']"
 password_field_xpath = "//*[@id="password"]"
 sign_in_button_xpath = "//*[text()= 'Sign in']"
-
+language_xpath = "//*[@role="button"]"
+sign_in_button_xpath = "//*[@class="MuiButton-label"]"
 def type_in_email(self, email):
 self.field_send_keys(self.login_field_xpath, email)

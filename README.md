@@ -54,9 +54,13 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 >2.//*[@id="__next"]/form/div/div[2]/button/span[1]
 
 ### Subtask 2 ***"Adding selectors to project”***
+>class LoginPage(BasePage):  
 >login_field_xpath = "//*[@id='login']"  
 >password_field_xpath = "//*[@id="password"]"  
->sign_in_button_xpath = "//*[text()= 'Sign in']"
+>sign_in_button_xpath = "//*[text()= 'Sign in']"  
+>language_xpath = "//*[@role="button"]"  
+>sign_in_button_xpath = "//*[@class="MuiButton-label"]"  
+
 
 ### Subtask 3 ***"Adding a new file”***
 //*[@id="__next"]/form/div/div[2]/button/span[1]

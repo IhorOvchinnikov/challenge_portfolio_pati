@@ -27,29 +27,29 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 ## **Task 2 Selectors.**
 ### Subtask1 ***"Searching for selectors on the login pageList all the elements that are on the login page?”***
 
-***login field***
+***login_field_xpath***
 >1.  //*[@id="login"]
 >2. //*[@name="login"]
 >3. //*[@type="text"]
 
-***password field***
+***password_field_xpath***
 >1. //*[@id="password"]
 >2. //*[@name="password"]
 >3. //*[@type="password"]
 
 
-***Remind password***
+***remind_password_xpath***
 >1. //*[@id="__next"]/form/div/div[1]/a
 >2. //a[@class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss4 MuiTypography-colorPrimary"]
 >3. //*[@tabindex="-1"]
 
-***language***
+***language_xpath***
 >1. //*[@role="button"]
 >2. //*[@aria-haspopup="listbox"]
 >3. //*[@tabindex="0"]
 
 
-***sign in button***
+***sign_in_button_xpath***
 >1.//*[@class="MuiButton-label"]  
 >2.//*[@id="__next"]/form/div/div[2]/button/span[1]
 

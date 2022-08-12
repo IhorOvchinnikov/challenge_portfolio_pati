@@ -1,6 +1,9 @@
 from pages.base_page import BasePage
 
-
 class Dashboard(BasePage):
-
- button_xpath = "//*@id='login']"
+button_xpath = "//*@id='login']"
+home_page_xpath "//*[text()='Main page']"
+page_Players_xpath "//*[text()='Players']"
+language_switching_xpath "//*[@id="__next"]/div[1]/div/div/div/ul[2]/div[1]/div[2]/span"
+home_page_xpath "//*[text()='Main page']"
+futbol_kolektyw_logo_xpath = "//*[@title="Logo Scouts Panel"]"

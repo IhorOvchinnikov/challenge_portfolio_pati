@@ -50,7 +50,7 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 
 
 ***sign in button***
->1.//*[@class="MuiButton-label"]
+>1.//*[@class="MuiButton-label"]  
 >2.//*[@id="__next"]/form/div/div[2]/button/span[1]
 
 ### Subtask 2 ***"Adding selectors to project”***
@@ -59,3 +59,4 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 >sign_in_button_xpath = "//*[text()= 'Sign in']"
 
 ### Subtask 3 ***"Adding a new file”***
+//*[@id="__next"]/form/div/div[2]/button/span[1]

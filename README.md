@@ -54,7 +54,7 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 >2.//*[@id="__next"]/form/div/div[2]/button/span[1]
 
 ### Subtask 2 ***"Adding selectors to project”***
-***login_page.py***
+**login_page.py**
 >class LoginPage(BasePage):  
 >login_field_xpath = "//*[@id='login']"  
 >password_field_xpath = "//*[@id="password"]"  

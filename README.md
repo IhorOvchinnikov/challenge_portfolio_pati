@@ -65,4 +65,3 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 
 
 ### Subtask 3 ***"Adding a new file”***
-//*[@id="__next"]/form/div/div[2]/button/span[1]

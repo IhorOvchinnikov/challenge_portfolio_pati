@@ -51,7 +51,8 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 
 ***sign_in_button_xpath***
 >1.//*[@class="MuiButton-label"]  
->2.//*[@id="__next"]/form/div/div[2]/button/span[1]
+>2.//*[@id="__next"]/form/div/div[2]/button/span[1]  
+>3.//*[text()='Add player']
 
 ### Subtask 2 ***"Adding selectors to project”***
 **login_page.py**

@@ -40,7 +40,8 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 
 ***password recovery field***
 >1. //*[@id="__next"]/form/div/div[1]/a
->2. //*[text()="Remind password"]
+>2. //a[@class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss4 MuiTypography-colorPrimary"]
+>3. //*[@tabindex="-1"]
 
 ### Subtask 2 ***"Adding selectors to project”***
 >login_field_xpath = "//*[@id='login']"  

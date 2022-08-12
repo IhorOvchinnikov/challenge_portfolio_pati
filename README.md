@@ -49,6 +49,10 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 >3. //*[@tabindex="0"]
 
 
+***sign in button***
+>1.//*[@class="MuiButton-label"]
+>2.//*[@id="__next"]/form/div/div[2]/button/span[1]
+
 ### Subtask 2 ***"Adding selectors to project”***
 >login_field_xpath = "//*[@id='login']"  
 >password_field_xpath = "//*[@id="password"]"  

@@ -65,7 +65,7 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 
 
 ### Subtask 3 ***"Adding a new file”***
-
+**dashboard.py**
 >button_xpath = "//*@id='login']"  
 >home_page_xpath = "//*[text()='Main page']"  
 >page_Players_xpath = "//*[text()='Players']"  

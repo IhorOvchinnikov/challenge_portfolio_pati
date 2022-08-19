@@ -50,31 +50,31 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 
 
 ***sign_in_button_xpath***
->1.//*[@class="MuiButton-label"]  
->2.//*[@id="__next"]/form/div/div[2]/button/span[1]  
->3.//*[text()='Sign in']
+>1.  //*[@class="MuiButton-label"]  
+>2.  //*[@id="__next"]/form/div/div[2]/button/span[1]  
+>3.  //*[text()='Sign in']
 
 ### Subtask 2 ***"Adding selectors to project”***
 **login_page.py**
 >class LoginPage(BasePage):  
->login_field_xpath = "//*[@id='login']"  
->password_field_xpath = "//*[@id="password']"  
->sign_in_button_xpath = "//*[text()= 'Sign in']"  
->language_xpath = "//*[@role="button']"  
->sign_in_button_xpath = "//*[@class="MuiButton-label"]"  
+> login_field_xpath = "//*[@id='login']"  
+> password_field_xpath = "//*[@id="password']"  
+> sign_in_button_xpath = "//*[text()= 'Sign in']"  
+> language_xpath = "//*[@role="button']"  
+> sign_in_button_xpath = "//*[@class="MuiButton-label"]"  
 
 
 ### Subtask 3 ***"Adding a new file”***
 **dashboard.py**
->button_xpath = "//*@id='login']"  
->home_page_xpath = "//*[text()='Main page']"  
->page_Players_xpath = "//*[text()='Players']"  
->language_switching_xpath = "//*['@id="__next']/div[1]/div/div/div/ul[2]/div[1]/div[2]/span"  
->add_player_button_xpath = "//*[text()='Add player']"  
->super_man_button_xpath = "//*[text()='super man']"  
->futbol_kolektyw_logo_xpath = "//*['@title="Logo Scouts Panel']"  
->Dev_team_contact_button_xpath = "//*[text()='Dev team contact']"  
->Players_count_xpath = "//*[text()='Players count']"  
->Matches_count_xpath ="//*[text()='Matches count']"  
->Reports_count_xpath = "//*[text()='Reports count']"  
->Events_count_xpath = "//*[text()='Events count']"  
+> button_xpath = "//*@id='login']"  
+> home_page_xpath = "//*[text()='Main page']"  
+> page_Players_xpath = "//*[text()='Players']"  
+> language_switching_xpath = "//*['@id="__next']/div[1]/div/div/div/ul[2]/div[1]/div[2]/span"  
+> add_player_button_xpath = "//*[text()='Add player']"  
+> super_man_button_xpath = "//*[text()='super man']"  
+> futbol_kolektyw_logo_xpath = "//*['@title="Logo Scouts Panel']"  
+> Dev_team_contact_button_xpath = "//*[text()='Dev team contact']"  
+> Players_count_xpath = "//*[text()='Players count']"  
+> Matches_count_xpath ="//*[text()='Matches count']"  
+> Reports_count_xpath = "//*[text()='Reports count']"  
+> Events_count_xpath = "//*[text()='Events count']"  

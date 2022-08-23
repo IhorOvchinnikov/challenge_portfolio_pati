@@ -78,3 +78,15 @@ which I don't have. And I filled out the participant's questionnaire and was loo
 > Matches_count_xpath ="//*[text()='Matches count']"  
 > Reports_count_xpath = "//*[text()='Reports count']"  
 > Events_count_xpath = "//*[text()='Events count']"  
+
+
+## **Task 3 First automatic test, asserts**
+### Subtask1 ***"Completing the Login Page”***
+>[LoginPage](https://github.com/IhorOvchinnikov/challenge_portfolio_pati/blob/main/pages/login_page.py) 
+### Subtask2 ***"Create a new test case”***
+>[login_to_the_sistem](https://github.com/IhorOvchinnikov/challenge_portfolio_pati/blob/main/test_cases/login_to_the_sistem.py)
+### Subtask3 ***"Assert”***
+>Add assertions to our login test []()
+### Subtask4 ***"Additional task for those willing (or for group)”***
+>Add to the BasePage class [BasePage](https://github.com/IhorOvchinnikov/challenge_portfolio_pati/blob/main/pages/base_page.py)
+

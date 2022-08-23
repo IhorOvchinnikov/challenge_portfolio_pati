@@ -14,3 +14,4 @@ class Dashboard(BasePage):
     Matches_count_xpath ="//*[text()='Matches count']"
     Reports_count_xpath = "//*[text()='Reports count']"
     Events_count_xpath = "//*[text()='Events count']"
+
